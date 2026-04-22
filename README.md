@@ -8,7 +8,6 @@ TaskFlow es una aplicacion de consola desarrollada en C# para gestionar y automa
 2. Abrir una terminal en la raiz del proyecto
 3. Ejecutar:
 
-```bash
 dotnet restore
 dotnet run --project src/TaskFlow
 
